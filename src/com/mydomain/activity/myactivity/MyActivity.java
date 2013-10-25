@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import rajawali.RajawaliActivity;
 
-public class Preview extends RajawaliActivity {
+public class MyActivity extends RajawaliActivity {
 
 
     private Renderer mRenderer;
