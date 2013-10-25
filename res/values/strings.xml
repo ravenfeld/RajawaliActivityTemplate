@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application Name -->
+    <string name="app_name">Rajawali Activity Template</string>
+
+    <!-- Name in Live Wallpaper Picker list -->
+    <string name="lwp_name">Rajawali Activity</string>
+
+    <!-- Description in Live Wallpaper Picker list -->
+    <string name="lwp_desc">Example Activity that uses Rajawali, an open-source OpenGL ES 2.x engine for Android.</string>
+
+    <!-- Author -->
+    <string name="lwp_author">Rajawali Contributors</string>
+
+
+</resources>
